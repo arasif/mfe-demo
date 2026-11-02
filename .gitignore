@@ -1,0 +1,16 @@
+# Dependencies (large, recreated by npm install)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs and local environment files
+*.log
+.env
+.env.local
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
