@@ -1,18 +1,1 @@
-npx nodemon --exec go run main.go --signal SIGTERM
-ar@makemy1
-
-github persistent
-- abdul-asif
--Mywork@persist1
-- git@persist1
-
-abdul-asif_psl
-
-arasif4@gmail.com
-Job@daimler1
-
-
-Pearson cred : 
-Anthropic
-candiate ID: ANTH402306
-abasif0015 / Open@11223344 
+tes
